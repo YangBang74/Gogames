@@ -33,7 +33,7 @@ body {
     z-index: 50;
 }
 .header__logo img {
-    width: 100%;
+    width: 80%;
     object-fit: contain;
 }
 .header__body {
